@@ -1,0 +1,9 @@
+1.首先用exsgnpa.exe解包
+格式：exsgnpa nss.npa
+2.使用nsbparse.exe提取脚本，格式详见帮助。
+3.录入时注意每句话后面必须保留原先的一个空行，否则会出现句子不停顿的情况。
+4.使用nsbcreate.exe创建nsb和map
+5.使用pksgnpa.exe封包，格式：在上一级目录输入pksgnpa nss
+6.cg的修改类似
+
+2011-7-26
