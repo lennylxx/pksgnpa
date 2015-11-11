@@ -1,7 +1,6 @@
 /* 
   dirent.h 2011/06/16
   by 7k
-  email: blxode [at] gmail.com 
   functions from here -->http://lists.arabeyes.org/archives/developer/2007/January/msg00017.html 
   you can find the  rest of dirent.h functions here -->http://softagalleria.net/dirent.php
 */
