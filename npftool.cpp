@@ -1,7 +1,6 @@
 /*
   npftool.cpp 2011/08/11
   by 7k
-  email: blxode [at] gmail.com
   decrypt and encrypt the *.npf files used by STEINS;GATE PC
   dir: C:\Users\[User Name]\AppData\Roaming\Nitroplus\STEINS;GATE\1.200(1.100)\
 */
