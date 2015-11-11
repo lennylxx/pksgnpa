@@ -1,7 +1,6 @@
 /*
   nsb2txt.cpp 2011/06/12
   by 7k
-  email: blxode [at] gmail.com 
   extract the subtitle from *.nsb used by STEINS;GATE PC
 */
 
