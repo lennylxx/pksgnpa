@@ -1,5 +1,5 @@
 # pksgnpa
-This tool creates NPA archives used by visual novel game Stein's;Gate, for Chinese translation.
+This tool creates NPA archives used by visual novel game Steins;Gate, for Chinese translation.
 
 # exsgnpa
 by asmodean
